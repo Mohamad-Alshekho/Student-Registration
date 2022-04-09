@@ -1,0 +1,1900 @@
+{
+  "birthDate" : 1995,
+  "ssn" : "41181253331",
+  "lastname" : "Dewalt",
+  "studentId" : {
+    "year" : 2013,
+    "departmentCode" : "1501",
+    "id" : "1501133135",
+    "order" : 4000
+  },
+  "weeklySchedule" : {
+    "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+  },
+  "yearEnrolled" : 2013,
+  "name" : "Jack",
+  "currentTranscript" : {
+    "passedCredits" : [ 31, 30, 30, 29, 39, 30, 41 ],
+    "totalGpa" : 2.75,
+    "coursesPassed" : [ [ [ {
+      "hourCollisionCounter" : 14,
+      "numOfStudents" : 70,
+      "courseCode" : "MATH1001",
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 1, 0, 1, 0 ], [ 0, 1, 0, 1, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Calculus I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 6
+    }, "DD" ], [ {
+      "hourCollisionCounter" : 11,
+      "numOfStudents" : 70,
+      "courseCode" : "ATA121",
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 1, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Ataturk's Principles and the History of Turkish Renovation I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 2
+    }, "AA" ], [ {
+      "hourCollisionCounter" : 20,
+      "numOfStudents" : 70,
+      "courseCode" : "MBG1201",
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 1, 0, 1 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Introduction to Medern Biology",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 5
+    }, "DC" ], [ {
+      "hourCollisionCounter" : 29,
+      "numOfStudents" : 70,
+      "courseCode" : "CSE1200",
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 1 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Intorduction to Computer Engineering",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 4
+    }, "BB" ], [ {
+      "hourCollisionCounter" : 22,
+      "numOfStudents" : 70,
+      "courseCode" : "CSE1241",
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 1, 1, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Computer Programming I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 6
+    }, "DC" ], [ {
+      "hourCollisionCounter" : 22,
+      "numOfStudents" : 70,
+      "courseCode" : "PHYS1101",
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 1, 1, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Physics I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 4
+    }, "AA" ], [ {
+      "hourCollisionCounter" : 19,
+      "numOfStudents" : 70,
+      "courseCode" : "PHYS1103",
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Physics Lab I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 2
+    }, "BA" ], [ {
+      "hourCollisionCounter" : 7,
+      "numOfStudents" : 70,
+      "courseCode" : "TRD121",
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Turkish Language I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 2
+    }, "AA" ] ], [ [ {
+      "hourCollisionCounter" : 16,
+      "numOfStudents" : 70,
+      "courseCode" : "CSE1242",
+      "givenSemester" : {
+        "num" : 2,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 1 ], [ 1, 1, 0, 0, 1 ], [ 1, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Computer Programming II",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 6
+    }, "DC" ], [ {
+      "hourCollisionCounter" : 13,
+      "numOfStudents" : 70,
+      "courseCode" : "ATA122",
+      "givenSemester" : {
+        "num" : 2,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Ataturk's Principles and the History of Turkish Renovation II",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 2
+    }, "BA" ], [ {
+      "hourCollisionCounter" : 16,
+      "numOfStudents" : 70,
+      "courseCode" : "MATH1002",
+      "givenSemester" : {
+        "num" : 2,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 1, 0, 0, 0 ], [ 0, 1, 1, 0, 0 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Calculus II",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 6
+    }, "AA" ], [ {
+      "hourCollisionCounter" : 17,
+      "numOfStudents" : 70,
+      "courseCode" : "MATH2256",
+      "givenSemester" : {
+        "num" : 2,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 1, 0, 0, 1, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Liner Algebra",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 5
+    }, "DC" ], [ {
+      "hourCollisionCounter" : 18,
+      "numOfStudents" : 70,
+      "courseCode" : "PHYS1102",
+      "givenSemester" : {
+        "num" : 2,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Physics II",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 4
+    }, "DD" ], [ {
+      "hourCollisionCounter" : 15,
+      "numOfStudents" : 70,
+      "courseCode" : "PHYS1104",
+      "givenSemester" : {
+        "num" : 2,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Physics Lab II",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 2
+    }, "BB" ], [ {
+      "hourCollisionCounter" : 9,
+      "numOfStudents" : 70,
+      "courseCode" : "TRD122",
+      "givenSemester" : {
+        "num" : 2,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Turkish Language II",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 2
+    }, "AA" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "NTE I",
+      "electiveCourseCode" : "CAS1001",
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "nte",
+      "courseTitle" : "Non-Technical Elective-1",
+      "prerequisites" : [ ],
+      "electiveCourseTitle" : "Self Management",
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 20,
+      "courseCredit" : 3
+    }, "CB" ] ], [ [ {
+      "hourCollisionCounter" : 19,
+      "numOfStudents" : 70,
+      "courseCode" : "MATH2059",
+      "givenSemester" : {
+        "num" : 3,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 1, 0, 1, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Numerical Methods",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 4
+    }, "CB" ], [ {
+      "hourCollisionCounter" : 19,
+      "numOfStudents" : 70,
+      "courseCode" : "CSE2225",
+      "givenSemester" : {
+        "num" : 3,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 1, 0, 0 ], [ 1, 0, 1, 0, 1 ], [ 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Data Structures",
+      "prerequisites" : [ "CSE1242" ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 7
+    }, "DC" ], [ {
+      "hourCollisionCounter" : 10,
+      "numOfStudents" : 70,
+      "courseCode" : "CSE2023",
+      "givenSemester" : {
+        "num" : 3,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Discrete Computational Structures",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 6
+    }, "DD" ], [ {
+      "hourCollisionCounter" : 16,
+      "numOfStudents" : 70,
+      "courseCode" : "EE2031",
+      "givenSemester" : {
+        "num" : 3,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 1, 0, 1, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Electric Circuits",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 5
+    }, "AA" ], [ {
+      "hourCollisionCounter" : 10,
+      "numOfStudents" : 70,
+      "courseCode" : "ECON2004",
+      "givenSemester" : {
+        "num" : 3,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Engineering Economy",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 4
+    }, "BB" ], [ {
+      "hourCollisionCounter" : 18,
+      "numOfStudents" : 70,
+      "courseCode" : "MATH2055",
+      "givenSemester" : {
+        "num" : 3,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 1, 0, 0 ], [ 1, 0, 1, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Differential Equations",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 4
+    }, "BA" ] ], [ [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 70,
+      "courseCode" : "CSE2246",
+      "givenSemester" : {
+        "num" : 4,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Analysis of algorithms",
+      "prerequisites" : [ "CSE2225" ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 6
+    }, "CC" ], [ {
+      "hourCollisionCounter" : 8,
+      "numOfStudents" : 70,
+      "courseCode" : "CSE2260",
+      "givenSemester" : {
+        "num" : 4,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 1, 1, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Principles of Programming Languages",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 6
+    }, "BB" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 70,
+      "courseCode" : "EE2032",
+      "givenSemester" : {
+        "num" : 4,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 1, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Electronics",
+      "prerequisites" : [ "EE2031" ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 5
+    }, "CB" ], [ {
+      "hourCollisionCounter" : 7,
+      "numOfStudents" : 70,
+      "courseCode" : "CSE2138",
+      "givenSemester" : {
+        "num" : 4,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Systems Programming",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 7
+    }, "CC" ], [ {
+      "hourCollisionCounter" : 13,
+      "numOfStudents" : 70,
+      "courseCode" : "STAT2253",
+      "givenSemester" : {
+        "num" : 4,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Probability and Statistics for Computer Engineering",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 5
+    }, "AA" ] ], [ [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 70,
+      "courseCode" : "CSE3000",
+      "givenSemester" : {
+        "num" : 5,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Summer Practice",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 10
+    }, "DC" ], [ {
+      "hourCollisionCounter" : 12,
+      "numOfStudents" : 70,
+      "courseCode" : "CSE3055",
+      "givenSemester" : {
+        "num" : 5,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 1 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Database Systems",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 7
+    }, "AA" ], [ {
+      "hourCollisionCounter" : 17,
+      "numOfStudents" : 70,
+      "courseCode" : "CSE3033",
+      "givenSemester" : {
+        "num" : 5,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 1 ], [ 1, 0, 0, 0, 1 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Operating Systems",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 7
+    }, "BA" ], [ {
+      "hourCollisionCounter" : 5,
+      "numOfStudents" : 70,
+      "courseCode" : "CSE3063",
+      "givenSemester" : {
+        "num" : 5,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 1, 1, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Object Oriented Software Design",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 5
+    }, "BA" ], [ {
+      "hourCollisionCounter" : 11,
+      "numOfStudents" : 70,
+      "courseCode" : "CSE3215",
+      "givenSemester" : {
+        "num" : 5,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 1, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Digital Logic Design",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 6
+    }, "CC" ], [ {
+      "hourCollisionCounter" : 10,
+      "numOfStudents" : 70,
+      "courseCode" : "IE3081",
+      "givenSemester" : {
+        "num" : 5,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 1 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Modeling and Discrete Simulation",
+      "prerequisites" : [ "STAT2253" ],
+      "prerequisiteFailureCounter" : 3,
+      "quota" : 70,
+      "courseCredit" : 4
+    }, "AA" ] ], [ [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 70,
+      "courseCode" : "COM2276",
+      "givenSemester" : {
+        "num" : 6,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Technical Communication and Entrepreneurship",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 2
+    }, "BA" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 70,
+      "courseCode" : "CSE3044",
+      "givenSemester" : {
+        "num" : 6,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 1, 1, 0, 0, 0 ], [ 1, 1, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Software Engineering",
+      "prerequisites" : [ "CSE3055" ],
+      "prerequisiteFailureCounter" : 2,
+      "quota" : 70,
+      "courseCredit" : 7
+    }, "CB" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 70,
+      "courseCode" : "CSE3264",
+      "givenSemester" : {
+        "num" : 6,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Formal Languages & Automata Theory",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 5
+    }, "BB" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 70,
+      "courseCode" : "CSE3038",
+      "givenSemester" : {
+        "num" : 6,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 1, 1, 0, 0 ], [ 0, 1, 1, 0, 0 ], [ 0, 1, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Computer Organization",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 7
+    }, "BB" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 70,
+      "courseCode" : "CSE3048",
+      "givenSemester" : {
+        "num" : 6,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 1, 1 ], [ 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Introduction to Signals and Systems",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 5
+    }, "BB" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 70,
+      "courseCode" : "IE3235",
+      "givenSemester" : {
+        "num" : 6,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 1, 1, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Operations Research",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 4
+    }, "BB" ] ], [ [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 70,
+      "courseCode" : "CSE4297",
+      "givenSemester" : {
+        "num" : 7,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Engineering project I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 5
+    }, "BB" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 70,
+      "courseCode" : "CSE4074",
+      "givenSemester" : {
+        "num" : 7,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Computer Networks",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 5
+    }, "CC" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 70,
+      "courseCode" : "CSE4219",
+      "givenSemester" : {
+        "num" : 7,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Prin. of Embed. System Design",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 6
+    }, "AA" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 70,
+      "courseCode" : "IsG121",
+      "givenSemester" : {
+        "num" : 7,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Work Safety I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 2
+    }, "AA" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 70,
+      "courseCode" : "CSE4288",
+      "givenSemester" : {
+        "num" : 7,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Into to Machine Learning",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 5
+    }, "AA" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 70,
+      "courseCode" : "CSE4000",
+      "givenSemester" : {
+        "num" : 7,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Summer Practice",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 10
+    }, "BA" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "TE I",
+      "electiveCourseCode" : "CSE4065",
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "te",
+      "courseTitle" : "Technical Elective I",
+      "prerequisites" : [ ],
+      "electiveCourseTitle" : "Introduction to Computational Genomics",
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 20,
+      "courseCredit" : 5
+    }, "CB" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "UE ",
+      "electiveCourseCode" : "CAS1010",
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "ue",
+      "courseTitle" : "University Elective",
+      "prerequisites" : [ ],
+      "electiveCourseTitle" : "Our Biosphere",
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 20,
+      "courseCredit" : 3
+    }, "AA" ] ] ],
+    "failedCredits" : [ 0, 0, 0, 0, 0, 0, 0 ],
+    "coursesNotTaken" : [ ],
+    "gpa" : [ 2.370967741935484, 2.433333333333333, 2.4166666666666665, 2.6379310344827585, 2.8974358974358974, 2.9166666666666665, 3.3292682926829267 ],
+    "semester" : 8,
+    "coursesFailed" : [ [ ], [ ], [ ], [ ], [ ], [ ], [ ] ],
+    "activeCourses" : [ [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 1,
+      "courseCode" : "TE II",
+      "electiveCourseCode" : "CSE4085",
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "te",
+      "courseTitle" : "Technical Elective II",
+      "prerequisites" : [ ],
+      "electiveCourseTitle" : "Human Computer Interaction",
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 20,
+      "courseCredit" : 5
+    }, "XX" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 1,
+      "courseCode" : "TE III",
+      "electiveCourseCode" : "CSE4075",
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "te",
+      "courseTitle" : "Technical Elective III",
+      "prerequisites" : [ "CSE4074" ],
+      "electiveCourseTitle" : "Wireless and Mobile Networks",
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 20,
+      "courseCredit" : 5
+    }, "XX" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 1,
+      "courseCode" : "TE IV",
+      "electiveCourseCode" : "DP.TE",
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "te",
+      "courseTitle" : "Technical Elective IV",
+      "prerequisites" : [ ],
+      "electiveCourseTitle" : "Exchange Program Technical",
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 20,
+      "courseCredit" : 5
+    }, "XX" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 1,
+      "courseCode" : "FTE",
+      "electiveCourseCode" : "MGT4088",
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "fte",
+      "courseTitle" : "Faculty Technical Elective",
+      "prerequisites" : [ ],
+      "electiveCourseTitle" : "Project Management for Engineers",
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 20,
+      "courseCredit" : 5
+    }, "XX" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 1,
+      "courseCode" : "NTE II",
+      "electiveCourseCode" : "NTE1015",
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "nte",
+      "courseTitle" : "TNon echnical Elective II",
+      "prerequisites" : [ ],
+      "electiveCourseTitle" : "Introduction to Leadership & Management for Engineers",
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 20,
+      "courseCredit" : 3
+    }, "XX" ] ]
+  },
+  "logs" : [ "The quota for CSE4298 is full. Could not take the course", "The quota for ISG122 is full. Could not take the course", "The quota for MATH1001 is full. Could not take the course", "The quota for MBG1201 is full. Could not take the course", "The quota for CSE1241 is full. Could not take the course", "The quota for CSE1242 is full. Could not take the course", "The quota for MATH2256 is full. Could not take the course", "The quota for PHYS1102 is full. Could not take the course", "The quota for CSE2225 is full. Could not take the course", "The quota for CSE2023 is full. Could not take the course", "The quota for CSE3000 is full. Could not take the course" ],
+  "collisionCourses" : [ ],
+  "previousTranscript" : {
+    "passedCredits" : [ 31, 30, 30, 29, 39, 30, 41 ],
+    "totalGpa" : 2.75,
+    "coursesPassed" : [ [ [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "MATH1001",
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 1, 0, 1, 0 ], [ 0, 1, 0, 1, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Calculus I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 6
+    }, "DD" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "ATA121",
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 1, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Ataturk's Principles and the History of Turkish Renovation I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 2
+    }, "AA" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "MBG1201",
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 1, 0, 1 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Introduction to Medern Biology",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 5
+    }, "DC" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "CSE1200",
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 1 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Intorduction to Computer Engineering",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 4
+    }, "BB" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "CSE1241",
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 1, 1, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Computer Programming I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 6
+    }, "DC" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "PHYS1101",
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 1, 1, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Physics I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 4
+    }, "AA" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "PHYS1103",
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Physics Lab I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 2
+    }, "BA" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "TRD121",
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Turkish Language I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 2
+    }, "AA" ] ], [ [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "CSE1242",
+      "givenSemester" : {
+        "num" : 2,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 1 ], [ 1, 1, 0, 0, 1 ], [ 1, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Computer Programming II",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 6
+    }, "DC" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "ATA122",
+      "givenSemester" : {
+        "num" : 2,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Ataturk's Principles and the History of Turkish Renovation II",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 2
+    }, "BA" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "MATH1002",
+      "givenSemester" : {
+        "num" : 2,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 1, 0, 0, 0 ], [ 0, 1, 1, 0, 0 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Calculus II",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 6
+    }, "AA" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "MATH2256",
+      "givenSemester" : {
+        "num" : 2,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 1, 0, 0, 1, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Liner Algebra",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 5
+    }, "DC" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "PHYS1102",
+      "givenSemester" : {
+        "num" : 2,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Physics II",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 4
+    }, "DD" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "PHYS1104",
+      "givenSemester" : {
+        "num" : 2,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Physics Lab II",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 2
+    }, "BB" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "TRD122",
+      "givenSemester" : {
+        "num" : 2,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Turkish Language II",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 2
+    }, "AA" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "NTE I",
+      "electiveCourseCode" : "CAS1001",
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "nte",
+      "courseTitle" : "Non-Technical Elective-1",
+      "prerequisites" : [ ],
+      "electiveCourseTitle" : "Self Management",
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 20,
+      "courseCredit" : 3
+    }, "CB" ] ], [ [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "MATH2059",
+      "givenSemester" : {
+        "num" : 3,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 1, 0, 1, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Numerical Methods",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 4
+    }, "CB" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "CSE2225",
+      "givenSemester" : {
+        "num" : 3,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 1, 0, 0 ], [ 1, 0, 1, 0, 1 ], [ 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Data Structures",
+      "prerequisites" : [ "CSE1242" ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 7
+    }, "DC" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "CSE2023",
+      "givenSemester" : {
+        "num" : 3,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Discrete Computational Structures",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 6
+    }, "DD" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "EE2031",
+      "givenSemester" : {
+        "num" : 3,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 1, 0, 1, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Electric Circuits",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 5
+    }, "AA" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "ECON2004",
+      "givenSemester" : {
+        "num" : 3,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Engineering Economy",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 4
+    }, "BB" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "MATH2055",
+      "givenSemester" : {
+        "num" : 3,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 1, 0, 0 ], [ 1, 0, 1, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Differential Equations",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 4
+    }, "BA" ] ], [ [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "CSE2246",
+      "givenSemester" : {
+        "num" : 4,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Analysis of algorithms",
+      "prerequisites" : [ "CSE2225" ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 6
+    }, "CC" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "CSE2260",
+      "givenSemester" : {
+        "num" : 4,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 1, 1, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Principles of Programming Languages",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 6
+    }, "BB" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "EE2032",
+      "givenSemester" : {
+        "num" : 4,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 1, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Electronics",
+      "prerequisites" : [ "EE2031" ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 5
+    }, "CB" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "CSE2138",
+      "givenSemester" : {
+        "num" : 4,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Systems Programming",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 7
+    }, "CC" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "STAT2253",
+      "givenSemester" : {
+        "num" : 4,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Probability and Statistics for Computer Engineering",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 5
+    }, "AA" ] ], [ [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "CSE3000",
+      "givenSemester" : {
+        "num" : 5,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Summer Practice",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 10
+    }, "DC" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "CSE3055",
+      "givenSemester" : {
+        "num" : 5,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 1 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Database Systems",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 7
+    }, "AA" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "CSE3033",
+      "givenSemester" : {
+        "num" : 5,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 1 ], [ 1, 0, 0, 0, 1 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Operating Systems",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 7
+    }, "BA" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "CSE3063",
+      "givenSemester" : {
+        "num" : 5,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 1, 1, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Object Oriented Software Design",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 5
+    }, "BA" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "CSE3215",
+      "givenSemester" : {
+        "num" : 5,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 1, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Digital Logic Design",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 6
+    }, "CC" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "IE3081",
+      "givenSemester" : {
+        "num" : 5,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 1 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Modeling and Discrete Simulation",
+      "prerequisites" : [ "STAT2253" ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 4
+    }, "AA" ] ], [ [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "COM2276",
+      "givenSemester" : {
+        "num" : 6,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Technical Communication and Entrepreneurship",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 2
+    }, "BA" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "CSE3044",
+      "givenSemester" : {
+        "num" : 6,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 1, 1, 0, 0, 0 ], [ 1, 1, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Software Engineering",
+      "prerequisites" : [ "CSE3055" ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 7
+    }, "CB" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "CSE3264",
+      "givenSemester" : {
+        "num" : 6,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Formal Languages & Automata Theory",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 5
+    }, "BB" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "CSE3038",
+      "givenSemester" : {
+        "num" : 6,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 1, 1, 0, 0 ], [ 0, 1, 1, 0, 0 ], [ 0, 1, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Computer Organization",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 7
+    }, "BB" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "CSE3048",
+      "givenSemester" : {
+        "num" : 6,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 1, 1 ], [ 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Introduction to Signals and Systems",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 5
+    }, "BB" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "IE3235",
+      "givenSemester" : {
+        "num" : 6,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 1, 1, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Operations Research",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 4
+    }, "BB" ] ], [ [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "CSE4297",
+      "givenSemester" : {
+        "num" : 7,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Engineering project I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 5
+    }, "BB" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "CSE4074",
+      "givenSemester" : {
+        "num" : 7,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Computer Networks",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 5
+    }, "CC" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "CSE4219",
+      "givenSemester" : {
+        "num" : 7,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Prin. of Embed. System Design",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 6
+    }, "AA" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "IsG121",
+      "givenSemester" : {
+        "num" : 7,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Work Safety I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 2
+    }, "AA" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "CSE4288",
+      "givenSemester" : {
+        "num" : 7,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Into to Machine Learning",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 5
+    }, "AA" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "CSE4000",
+      "givenSemester" : {
+        "num" : 7,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Summer Practice",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 10
+    }, "BA" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "TE I",
+      "electiveCourseCode" : "CSE4065",
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "te",
+      "courseTitle" : "Technical Elective I",
+      "prerequisites" : [ ],
+      "electiveCourseTitle" : "Introduction to Computational Genomics",
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 20,
+      "courseCredit" : 5
+    }, "CB" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "UE ",
+      "electiveCourseCode" : "CAS1010",
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "ue",
+      "courseTitle" : "University Elective",
+      "prerequisites" : [ ],
+      "electiveCourseTitle" : "Our Biosphere",
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 20,
+      "courseCredit" : 3
+    }, "AA" ] ] ],
+    "failedCredits" : [ 0, 0, 0, 0, 0, 0, 0 ],
+    "coursesNotTaken" : [ ],
+    "gpa" : [ 2.370967741935484, 2.433333333333333, 2.4166666666666665, 2.6379310344827585, 2.8974358974358974, 2.9166666666666665, 3.3292682926829267 ],
+    "semester" : 8,
+    "coursesFailed" : [ [ ], [ ], [ ], [ ], [ ], [ ], [ ] ]
+  },
+  "email" : "JackDewalt@marun.edu.tr",
+  "age" : 21
+}

@@ -1,0 +1,3303 @@
+{
+    "courses":[
+    {
+    "course_code": "BUS1003",
+    "course_title": "Entrepreneurship and Innovation",
+    "semester": {
+        "number": null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "ue",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "BUS1004",
+    "course_title": "Strategic Entrepreneurship",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "nte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "BUS2005",
+    "course_title": "International Business",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "ue",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CAS1001",
+    "course_title": "Self Management",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "nte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CAS1010",
+    "course_title": "Our Biosphere",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "ue",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CAS1061",
+    "course_title": "Geometric Origami",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "nte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CAS2001",
+    "course_title": "Energy for Physical Activity",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "ue",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CAS2002",
+    "course_title": "Human Performance and Nutrition",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "nte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CAS2003",
+    "course_title": "Cardiopulmonary Resuscitation and First Aid Basics",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "ue",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CAS2004",
+    "course_title": "Interpersonal Relations and Communication",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "nte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CAS2005",
+    "course_title": "Trekking and Orienteering",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "ue",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CAS3001",
+    "course_title": "Earthquake and Rescue Principles",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "nte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CAS3044",
+    "course_title": "Positive Thinking",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "ue",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "COMM2060",
+    "course_title": "Communication Models and Techniques",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "nte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "FNCE3003",
+    "course_title": "Investment Planning",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "ue",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "HR1013",
+    "course_title": "Career Development",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "nte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "HR4001",
+    "course_title": "Career Orientation",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "ue",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "HSS3002",
+    "course_title": "Ethics in Engineering and Science",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "nte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "IKT1054",
+    "course_title": "Industrial and Economic Sociology",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "ue",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "INF1001",
+    "course_title": "Information Literacy in Engineering",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "nte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "LAW2004",
+    "course_title": "Labor Law",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "ue",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "MAN1001",
+    "course_title": "Principles of Managerial Economics & Financial Management",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "nte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "MGT1021",
+    "course_title": "Design, Innovation and Entrepreneurship",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "ue",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "MGT3082",
+    "course_title": "Creativity and lnnovation Management",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "nte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "MRK3082",
+    "course_title": "Integrated Marketing Communication",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "ue",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "MRK3084",
+    "course_title": "Brand Creation/Branding",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "ue",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "NTE1002",
+    "course_title": "Effects of Human Behaviour on Environment",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "nte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "NTE1003",
+    "course_title": "The Culture of Radiation Safety",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "nte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "NTE1004",
+    "course_title": "World Cultures",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "nte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "NTE1006",
+    "course_title": "Basic Principles of Accessibility in Informatics and Technology",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "nte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "NTE1008",
+    "course_title": "Cinema",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "nte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "NTE1010",
+    "course_title": "Introduction to Finance for Engineers",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "nte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "NTE1011",
+    "course_title": "Business Communication",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "nte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "NTE1012",
+    "course_title": "Introduction to Corporate Governance for Engineers",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "nte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "NTE1013",
+    "course_title": "Business Intelligence for Managers",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "nte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "NTE1014",
+    "course_title": "Introduction to Strategic Human Resources Management",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "nte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "NTE1015",
+    "course_title": "Introduction to Leadership & Management for Engineers",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "nte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "NTE1016",
+    "course_title": "Introduction to Strategy for Engineers",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "nte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "NTE1017",
+    "course_title": "Marketing in a Technology Driven world for Engineers",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "nte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "NTE1018",
+    "course_title": "Introduction to Business World for Engineers",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "nte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "OB2040",
+    "course_title": "Industrial Psychology",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "ue",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "OB2041",
+    "course_title": "Behavioral Sciences for Engineers",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "ue",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "OB3043",
+    "course_title": "Organizational Behaviour",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "ue",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "SOC3082",
+    "course_title": "Environmental Sociology",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "ue",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "YDA1001",
+    "course_title": "German for Beginners",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "ue",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "YDA1002",
+    "course_title": "German",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "ue",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "YDA1003",
+    "course_title": "German Communication",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "ue",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "YDA2001",
+    "course_title": "Seminars in German",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "nte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "YDF1001",
+    "course_title": "French for Beginners",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "ue",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "YDF1002",
+    "course_title": "French",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "ue",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "YDI1004",
+    "course_title": "Report Writing in English",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "nte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "YDIS1001",
+    "course_title": "Spanish for Beginners",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "ue",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "YDIS1002",
+    "course_title": "Spanish",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "ue",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+
+{
+    "course_code": "BIOE4072",
+    "course_title": "Planning and Management of Research",
+    "semester": {
+        "number": 8,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "fte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CHE4060",
+    "course_title": "Cost Management in Chemical Industries",
+    "semester": {
+        "number": 8,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "fte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CHE4068",
+    "course_title": "Financial Engineering",
+    "semester": {
+        "number": 8,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "fte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CHE4080",
+    "course_title": "Chemical Engineering for Sustainable Biosphere",
+    "semester": {
+        "number": 8,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "fte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CSE4044",
+    "course_title": "Software Project Management",
+    "semester": {
+        "number": 8,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "fte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CSE4056",
+    "course_title": "Management of Information Systems",
+    "semester": {
+        "number": 8,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "fte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CSE4062",
+    "course_title": "Introduction to Data Science and Analytics",
+    "semester": {
+        "number": 8,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "fte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "EE4056",
+    "course_title": "Introduction to Information Systems Management",
+    "semester": {
+        "number": 8,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "fte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "EE4057",
+    "course_title": "Introduction to Systems Security",
+    "semester": {
+        "number": 8,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "fte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "EE4062",
+    "course_title": "Introduction to Image Processing",
+    "semester": {
+        "number": 8,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "fte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "ENVE4062",
+    "course_title": "Energy and the Environment",
+    "semester": {
+        "number": 8,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "fte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "ENVE4063",
+    "course_title": "Construction Materials for Environmental Engineering",
+    "semester": {
+        "number": 8,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "fte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "IE4055",
+    "course_title": "Design of Experiments",
+    "semester": {
+        "number": 8,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "fte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "IE4087",
+    "course_title": "Introduction to Total Quality Management",
+    "semester": {
+        "number": 8,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "fte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "ME3004",
+    "course_title": "Mathematical Modeling in Mechanical Engineering",
+    "semester": {
+        "number": 8,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "fte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "ME3022",
+    "course_title": "Mechatronics",
+    "semester": {
+        "number": 8,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "fte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "ME4018",
+    "course_title": "Introduction to Robotics",
+    "semester": {
+        "number": 8,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "fte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "ME4022",
+    "course_title": "Control Systems",
+    "semester": {
+        "number": 8,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "fte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "ME4033",
+    "course_title": "Designing Quality Products",
+    "semester": {
+        "number": 8,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "fte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "ME4051",
+    "course_title": "Automotive Engineering",
+    "semester": {
+        "number": 8,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "fte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "MGT4076",
+    "course_title": "Quality Management System in Automotive Industry",
+    "semester": {
+        "number": 8,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "fte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "MGT4082",
+    "course_title": "Advanced Innovative Design Management for Entrepreneurship",
+    "semester": {
+        "number": 8,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "fte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "MGT4084",
+    "course_title": "Innovation and New Product Development Management",
+    "semester": {
+        "number": 8,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "fte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "MGT4086",
+    "course_title": "Managing Engineering and Technology",
+    "semester": {
+        "number": 8,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "fte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "MGT4088",
+    "course_title": "Project Management for Engineers",
+    "semester": {
+        "number": 8,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "fte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "MSE4073",
+    "course_title": "Materials Engineering Economics and Plant Design",
+    "semester": {
+        "number": 8,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "fte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "MSE4074",
+    "course_title": "Total Quality Management in Materials Engineering",
+    "semester": {
+        "number": 8,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "fte",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CSE4026",
+    "course_title": "Introduction to Robotics and Contro Theory",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "te",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CSE4032",
+    "course_title": "Introduction to Distributed Systems",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "te",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CSE4034",
+    "course_title": "Advanced Unix Programming",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": ["CSE3033"],
+    "quota": 20,
+    "type": "te",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CSE4038",
+    "course_title": "Introduction to Parallel Processing",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "te",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CSE4040",
+    "course_title": "Cloud Computing",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "te",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CSE4044",
+    "course_title": "Software Project Management",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "te",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CSE4053",
+    "course_title": "Information Systems: Analysis and Design",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "te",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CSE4054",
+    "course_title": "Distributed Databases",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "te",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CSE4056",
+    "course_title": "Management of Information Systems",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "te",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CSE4057",
+    "course_title": "Information Systems Security",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "te",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CSE4058",
+    "course_title": "Fundamentals of Electronic Commerce",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "te",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CSE4059",
+    "course_title": "Internet Programming",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "te",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CSE4060",
+    "course_title": "Principles of Programming Languages",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "te",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CSE4061",
+    "course_title": "Compiler Design",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": ["CSE3264"],
+    "quota": 20,
+    "type": "te",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CSE4062",
+    "course_title": "Introduction to Data Science and Analytics",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "te",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CSE4063",
+    "course_title": "Fundamentals of Data Mining",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "te",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CSE4065",
+    "course_title": "Introduction to Computational Genomics",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "te",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CSE4066",
+    "course_title": "Introduction to Cryptography",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "te",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CSE4067",
+    "course_title": "Introduction to Blockchain Programming",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "te",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CSE4070",
+    "course_title": "Software Frameworks",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "te",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CSE4075",
+    "course_title": "Wireless and Mobile Networks",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": ["CSE4074"],
+    "quota": 20,
+    "type": "te",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CSE4082",
+    "course_title": "Artificial Intelligence",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "te",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CSE4083",
+    "course_title": "Computer Graphics",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "te",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CSE4084",
+    "course_title": "Multimedia Systems",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "te",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CSE4085",
+    "course_title": "Human Computer Interaction",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "te",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CSE4086",
+    "course_title": "Mobile Device Programming",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "te",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CSE4087",
+    "course_title": "Embedded System Design",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "te",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CSE4088",
+    "course_title": "Introduction to Machine Learning",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "te",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "CSE4093",
+    "course_title": "Special Topics in Computer Engineering",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "te",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+},
+{
+    "course_code": "DP.TE",
+    "course_title": "Exchange Program Technical",
+    "semester": {
+        "number":null,
+        "name": null
+    },
+    "course_schedule": {
+        "timeline":
+        [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+        ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 20,
+    "type": "te",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+}]}

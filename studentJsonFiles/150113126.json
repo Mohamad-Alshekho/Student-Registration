@@ -1,0 +1,892 @@
+{
+  "birthDate" : 1995,
+  "ssn" : "97895987015",
+  "lastname" : "Lawicki",
+  "studentId" : {
+    "year" : 2013,
+    "departmentCode" : "1501",
+    "id" : "150113126",
+    "order" : 280
+  },
+  "weeklySchedule" : {
+    "courseTime" : [ [ 0, 0, 1, 0, 0 ], [ 1, 0, 1, 0, 0 ], [ 1, 1, 0, 0, 0 ], [ 1, 1, 1, 1, 0 ], [ 1, 1, 1, 1, 1 ], [ 1, 1, 1, 1, 1 ], [ 1, 1, 0, 1, 0 ], [ 0, 1, 0, 1, 0 ], [ 0, 0, 0, 0, 0 ] ]
+  },
+  "yearEnrolled" : 2013,
+  "name" : "Edward",
+  "currentTranscript" : {
+    "passedCredits" : [ 23, 32 ],
+    "totalGpa" : 2.239130434782609,
+    "coursesPassed" : [ [ [ {
+      "hourCollisionCounter" : 7,
+      "numOfStudents" : 70,
+      "courseCode" : "MBG1201",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 1, 0, 1 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Introduction to Medern Biology",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 5
+    }, "DC" ], [ {
+      "hourCollisionCounter" : 82,
+      "numOfStudents" : 6,
+      "courseCode" : "CSE1200",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 1 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Intorduction to Computer Engineering",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 4
+    }, "CB" ], [ {
+      "hourCollisionCounter" : 18,
+      "numOfStudents" : 70,
+      "courseCode" : "CSE1241",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 1, 1, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Computer Programming I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 6
+    }, "AA" ], [ {
+      "hourCollisionCounter" : 13,
+      "numOfStudents" : 70,
+      "courseCode" : "PHYS1101",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 1, 1, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Physics I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 4
+    }, "BB" ], [ {
+      "hourCollisionCounter" : 6,
+      "numOfStudents" : 70,
+      "courseCode" : "PHYS1103",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Physics Lab I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 2
+    }, "BB" ], [ {
+      "hourCollisionCounter" : 16,
+      "numOfStudents" : 70,
+      "courseCode" : "TRD121",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Turkish Language I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 2
+    }, "BB" ] ], [ [ {
+      "hourCollisionCounter" : 24,
+      "numOfStudents" : 70,
+      "courseCode" : "MATH1001",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 1, 0, 1, 0 ], [ 0, 1, 0, 1, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Calculus I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 6
+    }, "DD" ], [ {
+      "hourCollisionCounter" : 1,
+      "numOfStudents" : 70,
+      "courseCode" : "ATA121",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 1, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Ataturk's Principles and the History of Turkish Renovation I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 2
+    }, "BB" ], [ {
+      "hourCollisionCounter" : 21,
+      "numOfStudents" : 28,
+      "courseCode" : "CSE1242",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 2,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 1 ], [ 1, 1, 0, 0, 1 ], [ 1, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Computer Programming II",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 6
+    }, "BA" ], [ {
+      "hourCollisionCounter" : 9,
+      "numOfStudents" : 30,
+      "courseCode" : "ATA122",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 2,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Ataturk's Principles and the History of Turkish Renovation II",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 2
+    }, "BA" ], [ {
+      "hourCollisionCounter" : 18,
+      "numOfStudents" : 20,
+      "courseCode" : "MATH1002",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 2,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 1, 0, 0, 0 ], [ 0, 1, 1, 0, 0 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Calculus II",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 6
+    }, "BB" ], [ {
+      "hourCollisionCounter" : 13,
+      "numOfStudents" : 28,
+      "courseCode" : "MATH2256",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 2,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 1, 0, 0, 1, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Liner Algebra",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 5
+    }, "AA" ], [ {
+      "hourCollisionCounter" : 17,
+      "numOfStudents" : 39,
+      "courseCode" : "TRD122",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 2,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Turkish Language II",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 2
+    }, "CB" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "NTE I",
+      "electiveCourseCode" : "BUS1004",
+      "students" : [ ],
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "nte",
+      "courseTitle" : "Non-Technical Elective-1",
+      "prerequisites" : [ ],
+      "electiveCourseTitle" : "Strategic Entrepreneurship",
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 20,
+      "courseCredit" : 3
+    }, "CC" ] ] ],
+    "failedCredits" : [ 8, 6 ],
+    "coursesNotTaken" : [ ],
+    "gpa" : [ 2.1129032258064515, 2.3421052631578947 ],
+    "semester" : 3,
+    "coursesFailed" : [ [ [ {
+      "hourCollisionCounter" : 24,
+      "numOfStudents" : 70,
+      "courseCode" : "MATH1001",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 1, 0, 1, 0 ], [ 0, 1, 0, 1, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Calculus I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 6
+    }, "FF" ], [ {
+      "hourCollisionCounter" : 1,
+      "numOfStudents" : 70,
+      "courseCode" : "ATA121",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 1, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Ataturk's Principles and the History of Turkish Renovation I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 2
+    }, "FF" ] ], [ [ {
+      "hourCollisionCounter" : 10,
+      "numOfStudents" : 39,
+      "courseCode" : "PHYS1104",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 2,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Physics Lab II",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 2
+    }, "FF" ], [ {
+      "hourCollisionCounter" : 11,
+      "numOfStudents" : 23,
+      "courseCode" : "PHYS1102",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 2,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Physics II",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 4
+    }, "FF" ] ] ],
+    "activeCourses" : [ [ {
+      "hourCollisionCounter" : 10,
+      "numOfStudents" : 39,
+      "courseCode" : "PHYS1104",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 2,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Physics Lab II",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 2
+    }, "FF" ], [ {
+      "hourCollisionCounter" : 11,
+      "numOfStudents" : 23,
+      "courseCode" : "PHYS1102",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 2,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Physics II",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 4
+    }, "FF" ], [ {
+      "hourCollisionCounter" : 20,
+      "numOfStudents" : 69,
+      "courseCode" : "MATH2059",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 3,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 1, 0, 1, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Numerical Methods",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 4
+    }, "XX" ], [ {
+      "hourCollisionCounter" : 25,
+      "numOfStudents" : 61,
+      "courseCode" : "CSE2225",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 3,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 1, 0, 0 ], [ 1, 0, 1, 0, 1 ], [ 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Data Structures",
+      "prerequisites" : [ "CSE1242" ],
+      "prerequisiteFailureCounter" : 33,
+      "quota" : 70,
+      "courseCredit" : 7
+    }, "XX" ], [ {
+      "hourCollisionCounter" : 30,
+      "numOfStudents" : 58,
+      "courseCode" : "CSE2023",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 3,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Discrete Computational Structures",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 6
+    }, "XX" ], [ {
+      "hourCollisionCounter" : 25,
+      "numOfStudents" : 55,
+      "courseCode" : "EE2031",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 3,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 1, 0, 1, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Electric Circuits",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 5
+    }, "XX" ], [ {
+      "hourCollisionCounter" : 14,
+      "numOfStudents" : 70,
+      "courseCode" : "ECON2004",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 3,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Engineering Economy",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 4
+    }, "XX" ], [ {
+      "hourCollisionCounter" : 35,
+      "numOfStudents" : 48,
+      "courseCode" : "MATH2055",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 3,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 1, 0, 0 ], [ 1, 0, 1, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Differential Equations",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 4
+    }, "XX" ] ]
+  },
+  "logs" : [ "The course MBG1201 could not be taken because it conflicts with CSE2225.", "The quota for MATH1001 is full. Could not take the course" ],
+  "collisionCourses" : [ {
+    "hourCollisionCounter" : 7,
+    "numOfStudents" : 70,
+    "courseCode" : "MBG1201",
+    "students" : [ ],
+    "givenSemester" : {
+      "num" : 1,
+      "name" : "Fall"
+    },
+    "courseSchedule" : {
+      "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 1, 0, 1 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+    },
+    "section" : "m",
+    "type" : "m",
+    "courseTitle" : "Introduction to Medern Biology",
+    "prerequisites" : [ ],
+    "prerequisiteFailureCounter" : 0,
+    "quota" : 70,
+    "courseCredit" : 5
+  } ],
+  "previousTranscript" : {
+    "passedCredits" : [ 23, 32 ],
+    "totalGpa" : 2.239130434782609,
+    "coursesPassed" : [ [ [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "MBG1201",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 1, 0, 1 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Introduction to Medern Biology",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 5
+    }, "DC" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "CSE1200",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 1 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Intorduction to Computer Engineering",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 4
+    }, "CB" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "CSE1241",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 1, 1, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Computer Programming I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 6
+    }, "AA" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "PHYS1101",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 1, 1, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Physics I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 4
+    }, "BB" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "PHYS1103",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Physics Lab I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 2
+    }, "BB" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "TRD121",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Turkish Language I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 2
+    }, "BB" ] ], [ [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "MATH1001",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 1, 0, 1, 0 ], [ 0, 1, 0, 1, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Calculus I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 6
+    }, "DD" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "ATA121",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 1, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Ataturk's Principles and the History of Turkish Renovation I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 2
+    }, "BB" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "CSE1242",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 2,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 1 ], [ 1, 1, 0, 0, 1 ], [ 1, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Computer Programming II",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 6
+    }, "BA" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "ATA122",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 2,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Ataturk's Principles and the History of Turkish Renovation II",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 2
+    }, "BA" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "MATH1002",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 2,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 1, 0, 0, 0 ], [ 0, 1, 1, 0, 0 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Calculus II",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 6
+    }, "BB" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "MATH2256",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 2,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 1, 0, 0, 1, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Liner Algebra",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 5
+    }, "AA" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "TRD122",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 2,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Turkish Language II",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 2
+    }, "CB" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "NTE I",
+      "electiveCourseCode" : "BUS1004",
+      "students" : [ ],
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "nte",
+      "courseTitle" : "Non-Technical Elective-1",
+      "prerequisites" : [ ],
+      "electiveCourseTitle" : "Strategic Entrepreneurship",
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 20,
+      "courseCredit" : 3
+    }, "CC" ] ] ],
+    "failedCredits" : [ 8, 6 ],
+    "coursesNotTaken" : [ ],
+    "gpa" : [ 2.1129032258064515, 2.3421052631578947 ],
+    "semester" : 3,
+    "coursesFailed" : [ [ [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "MATH1001",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 1, 0, 1, 0 ], [ 0, 1, 0, 1, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Calculus I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 6
+    }, "FF" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "ATA121",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 1, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Ataturk's Principles and the History of Turkish Renovation I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 2
+    }, "FF" ] ], [ [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "PHYS1104",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 2,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Physics Lab II",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 2
+    }, "FF" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "PHYS1102",
+      "students" : [ ],
+      "givenSemester" : {
+        "num" : 2,
+        "name" : "Spring"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Physics II",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 4
+    }, "FF" ] ] ]
+  },
+  "email" : "EdwardLawicki@marun.edu.tr",
+  "age" : 21
+}

@@ -1,0 +1,381 @@
+{
+  "birthDate" : 1997,
+  "ssn" : "61510691987",
+  "lastname" : "Lawicki",
+  "studentId" : {
+    "year" : 2015,
+    "departmentCode" : "1501",
+    "id" : "150115602",
+    "order" : 4000
+  },
+  "weeklySchedule" : {
+    "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 1, 0, 1 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+  },
+  "yearEnrolled" : 2015,
+  "name" : "Joe",
+  "currentTranscript" : {
+    "passedCredits" : [ 31 ],
+    "totalGpa" : 3,
+    "coursesPassed" : [ [ [ {
+      "hourCollisionCounter" : 14,
+      "numOfStudents" : 70,
+      "courseCode" : "MATH1001",
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 1, 0, 1, 0 ], [ 0, 1, 0, 1, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Calculus I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 6
+    }, "AA" ], [ {
+      "hourCollisionCounter" : 11,
+      "numOfStudents" : 70,
+      "courseCode" : "ATA121",
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 1, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Ataturk's Principles and the History of Turkish Renovation I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 2
+    }, "BA" ], [ {
+      "hourCollisionCounter" : 20,
+      "numOfStudents" : 70,
+      "courseCode" : "MBG1201",
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 1, 0, 1 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Introduction to Medern Biology",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 5
+    }, "DD" ], [ {
+      "hourCollisionCounter" : 29,
+      "numOfStudents" : 70,
+      "courseCode" : "CSE1200",
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 1 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Intorduction to Computer Engineering",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 4
+    }, "CC" ], [ {
+      "hourCollisionCounter" : 22,
+      "numOfStudents" : 70,
+      "courseCode" : "CSE1241",
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 1, 1, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Computer Programming I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 6
+    }, "AA" ], [ {
+      "hourCollisionCounter" : 22,
+      "numOfStudents" : 70,
+      "courseCode" : "PHYS1101",
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 1, 1, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Physics I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 4
+    }, "CB" ], [ {
+      "hourCollisionCounter" : 19,
+      "numOfStudents" : 70,
+      "courseCode" : "PHYS1103",
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Physics Lab I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 2
+    }, "AA" ], [ {
+      "hourCollisionCounter" : 7,
+      "numOfStudents" : 70,
+      "courseCode" : "TRD121",
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Turkish Language I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 2
+    }, "BA" ] ] ],
+    "failedCredits" : [ 0 ],
+    "coursesNotTaken" : [ ],
+    "gpa" : [ 3 ],
+    "semester" : 2,
+    "coursesFailed" : [ [ ] ],
+    "activeCourses" : [ [ {
+      "hourCollisionCounter" : 20,
+      "numOfStudents" : 70,
+      "courseCode" : "MBG1201",
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 1, 0, 1 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Introduction to Medern Biology",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 5
+    }, "DD" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 1,
+      "courseCode" : "NTE I",
+      "electiveCourseCode" : "NTE1003",
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "nte",
+      "courseTitle" : "Non-Technical Elective-1",
+      "prerequisites" : [ ],
+      "electiveCourseTitle" : "The Culture of Radiation Safety",
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 20,
+      "courseCredit" : 3
+    }, "XX" ] ]
+  },
+  "logs" : [ "The quota for CSE1242 is full. Could not take the course", "The quota for ATA122 is full. Could not take the course", "The quota for MATH1002 is full. Could not take the course", "The quota for MATH2256 is full. Could not take the course", "The quota for PHYS1102 is full. Could not take the course", "The quota for PHYS1104 is full. Could not take the course", "The quota for TRD122 is full. Could not take the course" ],
+  "collisionCourses" : [ ],
+  "previousTranscript" : {
+    "passedCredits" : [ 31 ],
+    "totalGpa" : 3,
+    "coursesPassed" : [ [ [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "MATH1001",
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 1, 0, 1, 0 ], [ 0, 1, 0, 1, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Calculus I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 6
+    }, "AA" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "ATA121",
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 1, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Ataturk's Principles and the History of Turkish Renovation I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 2
+    }, "BA" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "MBG1201",
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 1, 0, 1 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Introduction to Medern Biology",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 5
+    }, "DD" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "CSE1200",
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 1 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Intorduction to Computer Engineering",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 4
+    }, "CC" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "CSE1241",
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 0, 1, 0, 0, 0 ], [ 0, 1, 1, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Computer Programming I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 6
+    }, "AA" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "PHYS1101",
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0 ], [ 1, 1, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Physics I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 4
+    }, "CB" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "PHYS1103",
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 1, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Physics Lab I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 2
+    }, "AA" ], [ {
+      "hourCollisionCounter" : 0,
+      "numOfStudents" : 0,
+      "courseCode" : "TRD121",
+      "givenSemester" : {
+        "num" : 1,
+        "name" : "Fall"
+      },
+      "courseSchedule" : {
+        "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+      },
+      "students" : [ ],
+      "section" : "m",
+      "type" : "m",
+      "courseTitle" : "Turkish Language I",
+      "prerequisites" : [ ],
+      "prerequisiteFailureCounter" : 0,
+      "quota" : 70,
+      "courseCredit" : 2
+    }, "BA" ] ] ],
+    "failedCredits" : [ 0 ],
+    "coursesNotTaken" : [ ],
+    "gpa" : [ 3 ],
+    "semester" : 2,
+    "coursesFailed" : [ [ ] ]
+  },
+  "email" : "JoeLawicki@marun.edu.tr",
+  "age" : 19
+}

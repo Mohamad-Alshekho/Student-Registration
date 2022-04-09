@@ -1,0 +1,41 @@
+{
+  "birthDate" : 1997,
+  "ssn" : "34788527146",
+  "lastname" : "Bateman",
+  "studentId" : {
+    "year" : 2015,
+    "departmentCode" : "1501",
+    "id" : "150115041",
+    "order" : 280
+  },
+  "weeklySchedule" : {
+    "courseTime" : [ [ 0, 1, 0, 1, 0 ], [ 0, 1, 0, 1, 0 ], [ 1, 0, 1, 0, 0 ], [ 1, 0, 1, 0, 1 ], [ 1, 1, 0, 0, 1 ], [ 1, 1, 1, 1, 1 ], [ 1, 1, 0, 1, 0 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 1, 0, 0 ] ]
+  },
+  "yearEnrolled" : 2015,
+  "name" : "Nathan",
+  "currentTranscript" : null,
+  "logs" : [ "The course CSE1200 could not be taken because it conflicts with MBG1201." ],
+  "collisionCourses" : [ {
+    "hourCollisionCounter" : 88,
+    "numOfStudents" : 6,
+    "courseCode" : "CSE1200",
+    "givenSemester" : {
+      "num" : 1,
+      "name" : "Fall"
+    },
+    "courseSchedule" : {
+      "courseTime" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 1 ], [ 0, 0, 1, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ]
+    },
+    "students" : [ ],
+    "section" : "m",
+    "type" : "m",
+    "courseTitle" : "Intorduction to Computer Engineering",
+    "prerequisites" : [ ],
+    "prerequisiteFailureCounter" : 0,
+    "quota" : 70,
+    "courseCredit" : 4
+  } ],
+  "previousTranscript" : null,
+  "email" : "NathanBateman@marun.edu.tr",
+  "age" : 19
+}

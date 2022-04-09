@@ -1,0 +1,1653 @@
+{
+"courses":[
+  {
+    "course_code": "MATH1001",
+    "course_title": "Calculus I",
+    "semester": {
+      "number": 1,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,1,0,1,0],
+        [0,1,0,1,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 6,
+    "prerequisite": [],
+    "quota": 70,
+    "type" : "m",
+    "section": "m",
+    "n_of_students":0
+  },
+  {
+    "course_code": "ATA121",
+    "course_title": "Ataturk's Principles and the History of Turkish Renovation I",
+    "semester": {
+      "number": 1,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,1,0,0],
+        [0,0,1,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 2,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0
+  },
+  {
+    "course_code": "MBG1201",
+    "course_title": "Introduction to Medern Biology",
+    "semester": {
+      "number": 1,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,1,0,0],
+        [0,0,1,0,1],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0
+  },
+  {
+    "course_code": "CSE1200",
+    "course_title": "Intorduction to Computer Engineering",
+    "semester": {
+      "number": 1,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,1],
+        [0,0,0,0,1],
+        [0,0,1,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 4,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0
+  },
+  {
+    "course_code": "CSE1241",
+    "course_title": "Computer Programming I",
+    "semester": {
+      "number": 1,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [1,0,0,0,0],
+        [1,0,0,0,0],
+        [0,1,0,0,0],
+        [0,1,1,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 6,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0
+  },
+  {
+    "course_code": "PHYS1101",
+    "course_title": "Physics I",
+    "semester": {
+      "number": 1,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [1,0,0,0,0],
+        [1,0,0,0,0],
+        [1,1,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 4,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0
+  },
+  {
+    "course_code": "PHYS1103",
+    "course_title": "Physics Lab I",
+    "semester": {
+      "number": 1,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,1,0],
+        [0,0,0,1,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 2,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0
+  },
+  {
+    "course_code": "TRD121",
+    "course_title": "Turkish Language I",
+    "semester": {
+      "number": 1,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,1],
+        [0,0,0,0,1],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 2,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0
+  },
+  {
+    "course_code": "CSE1242",
+    "course_title": "Computer Programming II",
+    "semester": {
+      "number": 2,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,1],
+        [1,1,0,0,1],
+        [1,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 6,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0
+  },
+  {
+    "course_code": "ATA122",
+    "course_title": "Ataturk's Principles and the History of Turkish Renovation II",
+    "semester": {
+      "number": 2,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,1,0,0,0],
+        [0,1,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 2,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0
+  },
+  {
+    "course_code": "MATH1002",
+    "course_title": "Calculus II",
+    "semester": {
+      "number": 2,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,1,0,0,0],
+        [0,1,1,0,0],
+        [0,0,1,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 6,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0
+  },
+  {
+    "course_code": "MATH2256",
+    "course_title": "Liner Algebra",
+    "semester": {
+      "number": 2,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [1,0,0,1,0],
+        [0,0,0,1,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0
+  },
+  {
+    "course_code": "PHYS1102",
+    "course_title": "Physics II",
+    "semester": {
+      "number": 2,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,1,0],
+        [0,0,0,1,0],
+        [0,0,0,1,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 4,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0
+  },
+  {
+    "course_code": "PHYS1104",
+    "course_title": "Physics Lab II",
+    "semester": {
+      "number": 2,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [1,0,0,0,0],
+        [1,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 2,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0
+  },
+  {
+    "course_code": "NTE I",
+    "course_title": "Non-Technical Elective-1",
+    "semester": {
+      "number": 2,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0
+  },
+  {
+    "course_code": "TRD122",
+    "course_title": "Turkish Language II",
+    "semester": {
+      "number": 2,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,1,0,0,0],
+        [0,1,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 2,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0
+  },
+
+  {
+    "course_code": "MATH2059",
+    "course_title": "Numerical Methods",
+    "semester": {
+      "number": 3,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,1,0,1,0],
+        [0,1,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 4,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+  },
+
+  {
+    "course_code": "CSE2225",
+    "course_title": "Data Structures",
+    "semester": {
+      "number": 3,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,1,0,0],
+        [1,0,1,0,1],
+        [0,0,0,0,1],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 7,
+    "prerequisite": ["CSE1242"],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+  },
+
+  {
+    "course_code": "CSE2023",
+    "course_title": "Discrete Computational Structures",
+    "semester": {
+      "number": 3,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [1,0,0,0,0],
+        [1,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,1,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 6,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+  },
+
+  {
+    "course_code": "EE2031",
+    "course_title": "Electric Circuits",
+    "semester": {
+      "number": 3,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,1,0,0,0],
+        [0,1,0,1,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+  },
+
+  {
+    "course_code": "ECON2004",
+    "course_title": "Engineering Economy",
+    "semester": {
+      "number": 3,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,1,0,0,0],
+        [0,1,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 4,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+  },
+
+  {
+    "course_code": "MATH2055",
+    "course_title": "Differential Equations",
+    "semester": {
+      "number": 3,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,1,0,0],
+        [1,0,1,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 4,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+  },
+
+
+
+
+  {
+    "course_code": "CSE2246",
+    "course_title": "Analysis of algorithms",
+    "semester": {
+      "number": 4,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,1,0],
+        [0,0,0,0,1],
+        [0,0,0,0,1],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 6,
+    "prerequisite": ["CSE2225"],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+  },
+
+  {
+    "course_code": "CSE2260",
+    "course_title": "Principles of Programming Languages",
+    "semester": {
+      "number": 4,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,1,1,0,0],
+        [0,1,0,0,0],
+        [0,1,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 6,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+  },
+
+  {
+    "course_code": "EE2032",
+    "course_title": "Electronics",
+    "semester": {
+      "number": 4,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,1,0,0],
+        [0,0,1,0,0],
+        [0,0,0,0,0],
+        [0,0,0,1,0],
+        [0,0,0,1,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": ["EE2031"],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+  },
+
+  {
+    "course_code": "CSE2138",
+    "course_title": "Systems Programming",
+    "semester": {
+      "number": 4,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,1,0,0,0],
+        [1,0,0,0,0],
+        [1,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 7,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+  },
+
+  {
+    "course_code": "STAT2253",
+    "course_title": "Probability and Statistics for Computer Engineering",
+    "semester": {
+      "number": 4,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,1,0,0,0],
+        [0,1,0,0,0],
+        [1,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+  },
+  {
+    "course_code": "CSE3000",
+    "course_title": "Summer Practice",
+    "semester": {
+      "number": 5,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 10,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+  },
+
+  {
+    "course_code": "CSE3055",
+    "course_title": "Database Systems",
+    "semester": {
+      "number": 5,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,1,0,0],
+        [0,0,1,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,1],
+        [0,0,0,1,0],
+        [0,0,0,1,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 7,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+  },
+
+  {
+    "course_code": "CSE3033",
+    "course_title": "Operating Systems",
+    "semester": {
+      "number": 5,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,1],
+        [1,0,0,0,1],
+        [0,0,1,0,0],
+        [0,0,1,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 7,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+  },
+
+  {
+    "course_code": "CSE3063",
+    "course_title": "Object Oriented Software Design",
+    "semester": {
+      "number": 5,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [1,1,0,0,0],
+        [1,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+  },
+
+  {
+    "course_code": "CSE3215",
+    "course_title": "Digital Logic Design",
+    "semester": {
+      "number": 5,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,1,0],
+        [0,1,0,0,0],
+        [0,1,0,0,0],
+        [0,0,0,1,0],
+        [0,0,0,1,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 6,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+  },
+
+  {
+    "course_code": "IE3081",
+    "course_title": "Modeling and Discrete Simulation",
+    "semester": {
+      "number": 5,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,1],
+        [0,0,0,1,0],
+        [0,0,0,1,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 4,
+    "prerequisite": ["STAT2253"],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+  },
+  {
+    "course_code": "COM2276",
+    "course_title": "Technical Communication and Entrepreneurship",
+    "semester": {
+      "number": 6,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [1,0,0,0,0],
+        [1,0,0,0,0],
+        [1,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 2,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+  },
+
+
+  {
+    "course_code": "CSE3044",
+    "course_title": "Software Engineering",
+    "semester": {
+      "number": 6,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [1,1,0,0,0],
+        [1,1,0,0,0],
+        [0,1,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 7,
+    "prerequisite": ["CSE3055"],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+  },
+
+  {
+    "course_code": "CSE3264",
+    "course_title": "Formal Languages & Automata Theory",
+    "semester": {
+      "number": 6,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,1,0],
+        [0,0,0,1,0],
+        [0,0,0,1,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+  },
+
+
+  {
+    "course_code": "CSE3038",
+    "course_title": "Computer Organization",
+    "semester": {
+      "number": 6,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,1,1,0,0],
+        [0,1,1,0,0],
+        [0,1,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 7,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+  },
+
+
+  {
+    "course_code": "CSE3048",
+    "course_title": "Introduction to Signals and Systems",
+    "semester": {
+      "number": 6,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,1,1],
+        [0,0,0,0,1],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+  },
+
+
+  {
+    "course_code": "IE3235",
+    "course_title": "Operations Research",
+    "semester": {
+      "number": 6,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,1,0],
+        [0,0,1,1,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 4,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+  },
+
+  {
+    "course_code": "CSE4297",
+    "course_title": "Engineering project I",
+    "semester": {
+      "number": 7,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+  },
+
+  {
+    "course_code": "CSE4074",
+    "course_title": "Computer Networks",
+    "semester": {
+      "number": 7,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+  },
+
+  {
+    "course_code": "TE I",
+    "course_title": "Technical Elective I",
+    "semester": {
+      "number": 7,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+  },
+
+  {
+    "course_code": "UE ",
+    "course_title": "University Elective",
+    "semester": {
+      "number": 7,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+  },
+
+  {
+    "course_code": "CSE4219",
+    "course_title": "Prin. of Embed. System Design",
+    "semester": {
+      "number": 7,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 6,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+  },
+
+  {
+    "course_code": "IsG121",
+    "course_title": "Work Safety I",
+    "semester": {
+      "number": 7,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 2,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+  },
+
+  {
+    "course_code": "CSE4288",
+    "course_title": "Into to Machine Learning",
+    "semester": {
+      "number": 7,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+  },
+
+  {
+    "course_code": "CSE4000",
+    "course_title": "Summer Practice",
+    "semester": {
+      "number": 7,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 10,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+  },
+
+  {
+    "course_code": "CSE4298",
+    "course_title": "Engineering Project II",
+    "semester": {
+      "number": 8,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": ["CSE4297"],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+  },
+
+  {
+    "course_code": "TE II",
+    "course_title": "Technical Elective II",
+    "semester": {
+      "number": 8,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+  },
+
+  {
+    "course_code": "TE III",
+    "course_title": "Technical Elective III",
+    "semester": {
+      "number": 8,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+  },
+
+  {
+    "course_code": "TE IV",
+    "course_title": "Technical Elective IV",
+    "semester": {
+      "number": 8,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+  },
+
+  {
+    "course_code": "FTE",
+    "course_title": "Faculty Technical Elective",
+    "semester": {
+      "number": 8,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 5,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+  },
+
+  {
+    "course_code": "ISG122",
+    "course_title": "Work safety II",
+    "semester": {
+      "number": 8,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 2,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+  },
+
+  {
+    "course_code": "NTE II",
+    "course_title": "TNon echnical Elective II",
+    "semester": {
+      "number": 8,
+      "name": null
+    },
+    "course_schedule": {
+      "timeline":
+      [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0]
+      ]
+    },
+    "students": null,
+    "course_credit": 3,
+    "prerequisite": [],
+    "quota": 70,
+    "type": "m",
+    "section":"m",
+    "n_of_students":0,
+    "instructor":null
+  }
+
+
+]
+}
